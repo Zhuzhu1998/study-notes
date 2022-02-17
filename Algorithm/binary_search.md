@@ -54,7 +54,7 @@ pub fn binary_search(nums: &Vec<i32>, target_value: i32) -> Option<usize> {
 |0|1|0| 41|
 |0|-1|—| —|
 
-第二轮循环中，出现了 `0 -1`,  `usize` 肯定不允许呀~
+第二轮循环中，出现了 `0 - 1`,  `usize` 肯定不允许呀~
 
 _________________
 
